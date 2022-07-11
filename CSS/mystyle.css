@@ -208,3 +208,7 @@ html{
 	width: 80px;
 	height: 80px;
 }
+
+#projects > a{
+	color: #FFFFFF;
+}
